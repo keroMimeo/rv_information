@@ -26,7 +26,7 @@
 * Close the blackwater valve
 * Open the greywater valve and let it clean out your sewer hose
 
-
+***
 
 ## Inventory Ideas ##
 
@@ -71,8 +71,7 @@
 * hose(s) for fresh water
 * caps for fresh water hoses
 * water pressure regulator (not always needed)
-
-* step stool or ladder (need to get)
+* step stool or ladder
 
 
 
