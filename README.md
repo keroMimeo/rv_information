@@ -1,3 +1,14 @@
+## Random Tips ##
+* Use a lot of water when flushing solids
+* Change the hot water tank anode (yearly?)
+* Tires should be changed every 7 years regardless of the mileage.  For original tires, estimate that they are one year older than the model year of the RV.
+* Use a drill with a socket adapter for lowering / raising the stabilizer jacks
+* Water fittings come loose occasionally. Check these first when there is a leak.  
+* Always turn the fridge off completely if parking for more than a few minutes on unlevel ground.  The fridge needs to be almost perfectly level.  
+
+***
+
+
 ## Toilet Tips ##
 * Greywater tanks can be left open when you have full hookup.  Forecast when you will need to dump your blackwater tank, and shut your greywater tank and let your tank fill up.  
 *  To prevent backflow, _Never_ dump the blackwater tank with the greywater valve open.
@@ -17,18 +28,7 @@
 
 
 
-## Random Tips ##
-* Use a lot of water when flushing solids
-* Change the hot water tank anode (yearly?)
-* Tires should be changed every 7 years regardless of the mileage.  For original tires, estimate that they are one year older than the model year of the RV.
-* Use a drill with a socket adapter for lowering / raising the stabilizer jacks
-* Water fittings come loose occasionally. Check these first when there is a leak.  
-* Always turn the fridge off completely if parking for more than a few minutes on unlevel ground.  The fridge needs to be almost perfectly level.  
-
-
-
-
-## Inventory ##
+## Inventory Ideas ##
 
 * swiffer or mop
 * broom and dust pan
